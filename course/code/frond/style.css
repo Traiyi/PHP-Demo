@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+}
+
+.a-style{
+    font-size: 12px;
+    color:black;
+    text-decoration:none;
+    /* background-color:DodgerBlue; */
+}
+
+.color-style{
+    
+    /* background-color: black; */
+    background-color:rgb(115, 179, 243);
+}
+
+.color-style2{
+    
+    background-color:rgb(250, 128, 128);
+}
+
+.table-style{
+    font-size: 16px;
+}
